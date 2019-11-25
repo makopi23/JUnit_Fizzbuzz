@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="sample.FizzBuzzTest" time="0.043" tests="3" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="sun.desktop" value="windows"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="java.specification.version" value="11"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="MS932"/>
+    <property name="java.class.path" value="C:\program_data\tool\pleiades_2018-09\eclipse\workspace\JUnit_Fizzbuzz\target\test-classes;C:\program_data\tool\pleiades_2018-09\eclipse\workspace\JUnit_Fizzbuzz\target\classes;C:\Users\Owner\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.5.2\junit-jupiter-api-5.5.2.jar;C:\Users\Owner\.m2\repository\org\apiguardian\apiguardian-api\1.1.0\apiguardian-api-1.1.0.jar;C:\Users\Owner\.m2\repository\org\opentest4j\opentest4j\1.2.0\opentest4j-1.2.0.jar;C:\Users\Owner\.m2\repository\org\junit\platform\junit-platform-commons\1.5.2\junit-platform-commons-1.5.2.jar;C:\Users\Owner\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.5.2\junit-jupiter-engine-5.5.2.jar;C:\Users\Owner\.m2\repository\org\junit\platform\junit-platform-engine\1.5.2\junit-platform-engine-1.5.2.jar;"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="user.timezone" value="GMT+09:00"/>
+    <property name="java.vm.specification.version" value="11"/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="user.country" value="JP"/>
+    <property name="sun.boot.library.path" value="C:\program_data\tool\pleiades_2018-09\java\11\bin"/>
+    <property name="sun.java.command" value="C:\Users\Owner\AppData\Local\Temp\surefire16278179206767815468\surefirebooter12459817850802616862.jar C:\Users\Owner\AppData\Local\Temp\surefire16278179206767815468 2019-11-25T12-07-11_910-jvmRun1 surefire14842048228434404725tmp surefire_05536514709873217418tmp"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="surefire.test.class.path" value="C:\program_data\tool\pleiades_2018-09\eclipse\workspace\JUnit_Fizzbuzz\target\test-classes;C:\program_data\tool\pleiades_2018-09\eclipse\workspace\JUnit_Fizzbuzz\target\classes;C:\Users\Owner\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.5.2\junit-jupiter-api-5.5.2.jar;C:\Users\Owner\.m2\repository\org\apiguardian\apiguardian-api\1.1.0\apiguardian-api-1.1.0.jar;C:\Users\Owner\.m2\repository\org\opentest4j\opentest4j\1.2.0\opentest4j-1.2.0.jar;C:\Users\Owner\.m2\repository\org\junit\platform\junit-platform-commons\1.5.2\junit-platform-commons-1.5.2.jar;C:\Users\Owner\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.5.2\junit-jupiter-engine-5.5.2.jar;C:\Users\Owner\.m2\repository\org\junit\platform\junit-platform-engine\1.5.2\junit-platform-engine-1.5.2.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\Owner"/>
+    <property name="user.language" value="ja"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.version.date" value="2018-09-25"/>
+    <property name="java.home" value="C:\program_data\tool\pleiades_2018-09\java\11"/>
+    <property name="file.separator" value="\"/>
+    <property name="basedir" value="C:\program_data\tool\pleiades_2018-09\eclipse\workspace\JUnit_Fizzbuzz"/>
+    <property name="java.vm.compressedOopsMode" value="Zero based"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="surefire.real.class.path" value="C:\Users\Owner\AppData\Local\Temp\surefire16278179206767815468\surefirebooter12459817850802616862.jar"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="11+28-201810022317"/>
+    <property name="user.name" value="Owner"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
+    <property name="file.encoding" value="MS932"/>
+    <property name="java.vm.name" value="OpenJDK 64-Bit Server VM"/>
+    <property name="java.vendor.version" value="AdoptOpenJDK"/>
+    <property name="localRepository" value="C:\Users\Owner\.m2\repository"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.java.com/bugreport/"/>
+    <property name="java.io.tmpdir" value="C:\Users\Owner\AppData\Local\Temp\"/>
+    <property name="java.version" value="11"/>
+    <property name="user.dir" value="C:\program_data\tool\pleiades_2018-09\eclipse\workspace\JUnit_Fizzbuzz"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="java.library.path" value="C:\program_data\tool\pleiades_2018-09\java\11\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:/program_data/tool/pleiades_2018-09/eclipse/jre/bin/../jre/bin/server;C:/program_data/tool/pleiades_2018-09/eclipse/jre/bin/../jre/bin;C:/program_data/tool/pleiades_2018-09/eclipse/jre/bin/../jre/lib/amd64;C:\Python27\;C:\Python27\Scripts;C:\program_data\tool\jdk-11.0.1\bin;C:\Program Files (x86)\Intel\iCLS Client\;C:\oraclexe\app\oracle\product\11.2.0\server\bin;C:\Program Files\Haskell\bin;C:\Program Files\Haskell Platform\8.2.1\lib\extralibs\bin;C:\Program Files\Haskell Platform\8.2.1\bin;C:\ProgramData\Oracle\Java\javapath;C:\Program Files\Intel\iCLS Client\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Go\bin;C:\Program Files\erl9.0\bin;C:\program_data\programming\kotlin\kotlinc\bin;C:\Users\Owner\Anaconda3\Scripts;C:\program_data\tool\netcat-1.11;C:\Program Files\Haskell Platform\8.2.1\mingw\bin;C:\Program Files\Git\cmd;C:\program_data\tool\gradle-4.2.1\bin;C:\Program Files\MySQL\MySQL Server 5.7\bin;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Users\Owner\go\bin;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files (x86)\Microsoft VS Code\bin;C:\HashiCorp\Vagrant\bin;C:\Program Files\MySQL\MySQL Server 8.0\bin;C:\program_data\tool\jq;C:\minikube;C:\program_data\tool\helm;C:\Users\Owner\AppData\Roaming\Python\Python36\Scripts;C:\program_data\programming\aws\serverless\zip-3.0-bin\bin;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Users\Owner\AppData\Roaming\cabal\bin;C:\Users\Owner\AppData\Roaming\local\bin;C:\Users\Owner\Anaconda3;C:\Users\Owner\Anaconda3\Library\mingw-w64\bin;C:\Users\Owner\Anaconda3\Library\usr\bin;C:\Users\Owner\Anaconda3\Library\bin;C:\Users\Owner\Anaconda3\Scripts;C:\Users\Owner\AppData\Local\Microsoft\WindowsApps;C:\Program Files (x86)\Microsoft VS Code\bin;C:\Program Files\Docker Toolbox;C:\Users\Owner\AppData\Local\Google\Cloud SDK\google-cloud-sdk\bin;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Users\Owner\AppData\Roaming\npm;C:\program_data\tool\pleiades_2018-09\eclipse;;."/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.vm.version" value="11+28-201810022317"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="55.0"/>
+  </properties>
+  <testcase name="数値が3でも5でも割り切れる" classname="sample.FizzBuzzTest" time="0.021"/>
+  <testcase name="数値が3で割り切れる" classname="sample.FizzBuzzTest" time="0"/>
+  <testcase name="数値が5で割り切れる" classname="sample.FizzBuzzTest" time="0.001"/>
+</testsuite>
