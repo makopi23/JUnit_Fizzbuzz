@@ -48,4 +48,9 @@ class FizzBuzzTest extends FizzBuzz {
         assertEquals("Buzz", FizzBuzz.fizzbuzz(10));
     }
 
+    @Test
+    void test01() {
+        assertEquals("1", "1");
+    }
+
 }

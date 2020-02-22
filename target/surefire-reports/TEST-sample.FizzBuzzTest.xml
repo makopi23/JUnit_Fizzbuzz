@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="sample.FizzBuzzTest" time="0.043" tests="3" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="sample.FizzBuzzTest" time="0.047" tests="3" errors="0" skipped="0" failures="0">
   <properties>
     <property name="sun.desktop" value="windows"/>
     <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
@@ -17,7 +17,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="JP"/>
     <property name="sun.boot.library.path" value="C:\program_data\tool\pleiades_2018-09\java\11\bin"/>
-    <property name="sun.java.command" value="C:\Users\Owner\AppData\Local\Temp\surefire16278179206767815468\surefirebooter12459817850802616862.jar C:\Users\Owner\AppData\Local\Temp\surefire16278179206767815468 2019-11-25T12-07-11_910-jvmRun1 surefire14842048228434404725tmp surefire_05536514709873217418tmp"/>
+    <property name="sun.java.command" value="C:\Users\Owner\AppData\Local\Temp\surefire17478367008017071248\surefirebooter2406080475837649948.jar C:\Users\Owner\AppData\Local\Temp\surefire17478367008017071248 2020-02-22T22-59-48_855-jvmRun1 surefire3743064146571436806tmp surefire_08065594079242996428tmp"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="C:\program_data\tool\pleiades_2018-09\eclipse\workspace\JUnit_Fizzbuzz\target\test-classes;C:\program_data\tool\pleiades_2018-09\eclipse\workspace\JUnit_Fizzbuzz\target\classes;C:\Users\Owner\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.5.2\junit-jupiter-api-5.5.2.jar;C:\Users\Owner\.m2\repository\org\apiguardian\apiguardian-api\1.1.0\apiguardian-api-1.1.0.jar;C:\Users\Owner\.m2\repository\org\opentest4j\opentest4j\1.2.0\opentest4j-1.2.0.jar;C:\Users\Owner\.m2\repository\org\junit\platform\junit-platform-commons\1.5.2\junit-platform-commons-1.5.2.jar;C:\Users\Owner\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.5.2\junit-jupiter-engine-5.5.2.jar;C:\Users\Owner\.m2\repository\org\junit\platform\junit-platform-engine\1.5.2\junit-platform-engine-1.5.2.jar;"/>
     <property name="sun.cpu.endian" value="little"/>
@@ -33,7 +33,7 @@
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
-    <property name="surefire.real.class.path" value="C:\Users\Owner\AppData\Local\Temp\surefire16278179206767815468\surefirebooter12459817850802616862.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\Owner\AppData\Local\Temp\surefire17478367008017071248\surefirebooter2406080475837649948.jar"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="11+28-201810022317"/>
@@ -60,7 +60,7 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="55.0"/>
   </properties>
-  <testcase name="数値が3でも5でも割り切れる" classname="sample.FizzBuzzTest" time="0.021"/>
-  <testcase name="数値が3で割り切れる" classname="sample.FizzBuzzTest" time="0"/>
-  <testcase name="数値が5で割り切れる" classname="sample.FizzBuzzTest" time="0.001"/>
+  <testcase name="数値が3でも5でも割り切れる" classname="sample.FizzBuzzTest" time="0.023"/>
+  <testcase name="数値が3で割り切れる" classname="sample.FizzBuzzTest" time="0.001"/>
+  <testcase name="数値が5で割り切れる" classname="sample.FizzBuzzTest" time="0.002"/>
 </testsuite>
